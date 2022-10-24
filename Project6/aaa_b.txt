@@ -1,0 +1,7 @@
+10 3                   leather             
+10 4                   leather             
+10 7                   leather             
+10 1                   leather             
+10 2                   leather             
+10 5                   leather             
+10 6                   leather             
